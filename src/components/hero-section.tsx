@@ -6,7 +6,7 @@ export function HeroSection() {
       {/* Background Image with Parallax */}
       <motion.div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url(https://images.unsplash.com/photo-1618261345748-9b95ddfac407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuZW9uJTIwbGlnaHRzJTIwdG9reW8lMjBuaWdodHxlbnwxfHx8fDE3NjQzNjA1NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080)` }}
+        style={{ backgroundImage: `url(https://images8.alphacoders.com/749/749455.png)` }}
         initial={{ scale: 1.3, rotate: 2 }}
         animate={{ scale: 1, rotate: 0 }}
         transition={{ duration: 2, ease: [0.43, 0.13, 0.23, 0.96] }}
@@ -83,7 +83,7 @@ export function HeroSection() {
                 animate={{ opacity: 1, y: 0, rotateX: 0 }}
                 transition={{ duration: 0.8, delay: 0.5, type: "spring", stiffness: 100 }}
               >
-                Anna's
+                2025
               </motion.div>
               <motion.div
                 initial={{ opacity: 0, scale: 0.5, y: 50 }}
@@ -141,8 +141,7 @@ export function HeroSection() {
             animate={{ opacity: 1, filter: "blur(0px)" }}
             transition={{ duration: 1, delay: 1.1 }}
           >
-            A curated collection of the absolute best anime watched this year.
-            These are the shows that stood out, captivated, and left a lasting impression.
+            Presenting you a collection of the absolute best anime I watched in 2025 so far.
           </motion.p>
 
           {/* Count */}

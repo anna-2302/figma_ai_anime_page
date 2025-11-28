@@ -101,7 +101,7 @@ export function ClosingCredits() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.4 }}
             >
-              More incredible anime adventures await in 2026
+              More incredible anime coming out in 2026
             </motion.p>
           </motion.div>
 
@@ -117,7 +117,7 @@ export function ClosingCredits() {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.8, delay: 2 }}
             >
-              <p className="text-sm md:text-base uppercase tracking-widest">Curated by</p>
+              <p className="text-sm md:text-base uppercase tracking-widest">Hand picked by</p>
               <p className="text-2xl md:text-3xl text-white mt-1">Anna</p>
             </motion.div>
 
@@ -133,8 +133,8 @@ export function ClosingCredits() {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.8, delay: 2.5 }}
             >
-              <p className="text-sm md:text-base uppercase tracking-widest">Year</p>
-              <p className="text-xl md:text-2xl text-white/90 mt-1">2025</p>
+              <p className="text-sm md:text-base uppercase tracking-widest">On</p>
+              <p className="text-xl md:text-2xl text-white/90 mt-1">29 November 2025</p>
             </motion.div>
           </motion.div>
 
@@ -152,7 +152,7 @@ export function ClosingCredits() {
               }}
               transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
             >
-              "The adventure never ends..."
+              "Ramen is life"
             </motion.p>
           </motion.div>
         </motion.div>
