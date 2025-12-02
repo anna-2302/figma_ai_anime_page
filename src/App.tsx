@@ -21,7 +21,7 @@ export default function App() {
     {
       titleEn: "Kaiju No. 8",
       titleJp: "怪獣8号",
-      titleRu: "Кайдзю №8)",
+      titleRu: "Кайдзю №8",
       rating: "10/10",
       imageUrl: "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=100,width=1920/keyart/GG5H5XQ7D-backdrop_wide",
       layout: "top-right"
