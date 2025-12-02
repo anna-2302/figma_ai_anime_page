@@ -1,8 +1,10 @@
 
-  # 2025 Best Anime
+# 2025 Best Anime Page
 
-This is a Figma AI + Cursor AI generated page about top 2025 anime.
+This is a Figma AI + Cursor AI generated page.
 
+<img width="800" alt="Screenshot" src="https://github.com/user-attachments/assets/c397263d-e43d-4f54-b6a8-e06e35a2b1ff" />
+https://github.com/user-attachments/assets/8a7d9fd9-c4ff-4ace-8759-38cebf95c9a1
 
   ## Running the code
 
