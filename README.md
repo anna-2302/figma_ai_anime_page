@@ -1,7 +1,8 @@
 
-  # Create Anime Landing Page
+  # 2025 Best Anime
 
-  This is a code bundle for Create Anime Landing Page. The original project is available at https://www.figma.com/design/vsIw8yjnQcf3HMNchh42aB/Create-Anime-Landing-Page.
+This is a Figma AI + Cursor AI generated page about top 2025 anime.
+
 
   ## Running the code
 
